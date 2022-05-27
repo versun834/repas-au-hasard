@@ -1,0 +1,66 @@
+h1
+{
+	color: black;
+    width: 1200px;
+	margin: 15 auto;
+	background-color: white;
+	text-align: center;
+	align-content: center;
+  font-size: 250%;
+}
+
+p
+{
+	color: black;
+    width: 1200px;
+	margin: 0 auto;
+	background-color: white;
+	text-align: center;
+	align-content: center;
+  font-family: Times New Roman, serif;
+  font-size: 200%;
+}
+
+button
+{
+  display: block;
+  margin : auto;
+}
+
+body
+{
+	background-color: purple;
+}
+
+#repasdisp
+{
+  color: black;
+    width: 1200px;
+	margin: 0 auto;
+	background-color: white;
+	text-align: center;
+	align-content: center;
+  font-family: Times New Roman, serif;
+  font-size: 180%;
+}
+
+#repaschoix
+{
+  color: black;
+    width: 1200px;
+	margin: 0 auto;
+	background-color: white;
+	text-align: center;
+	align-content: center;
+  font-family: Times New Roman, serif;
+  font-size: 180%;
+}
+
+#Accueil
+{
+	width: 1200px;
+	margin: 0 auto;
+	background-color: white;
+	text-align: left;
+	align-content: center;
+}
